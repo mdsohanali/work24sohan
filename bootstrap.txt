@@ -1,0 +1,220 @@
+<-----------3--------->
+Bootstrap cdm
+class="container"
+class="container-fluid"
+class="row"
+class="col-sm-12  col-md-6  col-lg-3"
+<-----------4--------->
+bg-primary
+bg-secondary
+bg-success
+bg-info
+bg-waming
+bg-danger
+bg-light
+bg-dark
+bg-white
+--
+text-primary
+text-secondary 
+text-success
+text-info
+text-waming
+text-danger
+text-light
+text-dark
+text-white
+--
+p-1 up 5
+pt-1 up 5
+pb-1 up 5
+pr-1 up 5
+pl-1 up 5
+py-1 up 5
+px-1 up 5
+
+p-sm-2 p-md-3 p-lg-5
+pt-sm-2 pt-md-3 pt-lg-5
+pb-sm-2 pb-md-3 pb-lg-5
+pr-sm-2 pr-md-3 pr-lg-5
+pl-sm-2 pl-md-3 pl-lg-5
+py-sm-2 py-md-3 py-lg-5
+px-sm-2 px-md-3 px-lg-5
+
+--
+m-1 up 5
+mt-1 up 5
+mb-1 up 5
+mr-1 up 5
+ml-1 up 5
+my-1 up 5
+mx-1 up 5
+
+m-sm-2 m-md-3 m-lg-5
+mt-sm-2 mt-md-3 mt-lg-5
+mb-sm-2 mb-md-3 mb-lg-5
+mr-sm-2 mr-md-3 mr-lg-5
+ml-sm-2 ml-md-3 ml-lg-5
+my-sm-2 my-md-3 my-lg-5
+mx-sm-2 mx-md-3 mx-lg-5
+<-----------5--------->
+class="border"
+class="border-dark"//border-color
+class="rounded border"
+class="rounded-left border"
+class="rounded-right border"
+class="rounded-top border"
+class="rounded-bottom border"
+--
+img-fluid
+img-thumbnail
+rounded-circle
+border
+d-block m-auto / ml-auto / mr-auto
+<-----------6--------->
+
+fa-2x// icon size 1 up to 5
+p class="small text-muted"
+-
+ text-left / center / right / justify
+ text-sm / md / lg -left / center / right / justify
+ text-decoration-bone
+ text-monospace
+ text-nowrap  
+-
+text-uppercase
+text-lowercase
+text-capitalize
+-
+font-weight-bolder
+font-weight-bolder
+font-weight-normal
+font-weight-light
+font-weight-lighter
+font-italic
+small
+
+<-----------7--------->
+jumbotron
+jumbotron-fluid
+-
+alert alert-success
+class="close" data-dismiss="alert"
+&times;
+<-----------8--------->
+blockquote
+blockquote-footer
+<cite></cite>
+<abbr title="Bootstrap">BS4</abbr>
+<-----------9--------->
+btn btn-outline-primary 
+btn-ld
+btn-md
+btn-sm
+btn-block
+active-button
+disabled-button
+class="btn-group"
+-
+list-group
+list-group-item
+<----------- 10 --------->
+<ul class="pagination">
+ <li class="page-item">   <a class="page-link"href="#"> Pre</a>    </li>
+justify-content-center
+-
+data-toggle="collapse"
+class="collapse"
+<----------- 11 --------->
+tab-content
+tab-pane
+nav-tabs
+nav-pills
+data-toggle="tab" 
+data-toggle="pills" 
+
+<----------- 12 --------->
+
+ <ul class="nav nav-tabs">
+ <ul class="nav nav-pills">
+ <li class="nav-item">
+a data-toggle="tab"
+<a data-toggle="pill"
+<div class="tab-content">
+ <div id="education" class="tab-pale fade active"> 
+<----------- 13 --------->
+navbar
+navbar-nav
+navbar-expand-sm
+nav-item
+nav-link
+navbar-brand
+ml-auto
+fixed-top
+justify-content-center
+fined-top/buttom
+
+
+collapsible navbar bootstrap//text
+<nav class="navbar navbar-expand-sm bg-primary navbar-dark">
+<a href="#" class="navbar-brand">
+ <ul class="navbar-nav ml-auto">
+<----------- 14 --------->
+font-weight-bolder
+card
+card-img-bottom/top
+Ali="card img"
+card-body
+card-title
+card-text
+card-link stretched-link
+<-------------15----------------->
+border
+media
+media-body
+align-self-start/center/end
+<-------------16----------------->
+table
+table-bordered
+table-hover
+table-dark
+thead-dark // thead-light
+table-striped
+<------------- 17 ----------------->
+form-control
+form-group
+btn btn-secondary
+w-50
+was-validated
+valid-feedback
+invalid-feedback
+required
+<------------- 18 ----------------->
+data-interval="1000"
+data-pause="hover"
+<------------- 19 ----------------->
+html{
+    scroll-behavior:smooth ;
+}
+d-flex justify-content-center align-items-center
+onclick="location.href='#tutorials' ";
+onclick="window.open('link'))"
+d-flex justify-content-center align-items-center
+
+<----------------------- 20 ------------------------------>
+ d-block d-lg-flex
+ 
+<----------------------- 21 ------------------------------>
+
+<----------------------- 24 ------------------------------>
+
+<form action="mailto:freelancersohan24@gmail.com" method="post" enctype="text/plain" class="was-validated"></form>
+required
+  <div class="valid-feedback">valid</div>
+  <div class="invalid-feedback">Enter full name before submiting your form</div>
+
+
+  
+
+
+
